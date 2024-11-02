@@ -1,2 +1,3 @@
-# History-of-Western-Philosophy
-Reading notes on the history of Western philosophy
+#西方哲学史
+
+由于精力有限，暂时只总结了一点点，不过我最近发现我很喜欢叔本华的哲学，估计因为对这点的兴趣，会支持我继续学习下去。
